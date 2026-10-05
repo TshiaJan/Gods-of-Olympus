@@ -57,5 +57,5 @@ We may revise this Privacy Policy periodically. Continued use of the Game consti
 For inquiries regarding Gods of Olympus or this Privacy Policy, please contact:
 
 **Developer:** Tshiamo Jantjie  
-**Email:** [tshiajan@gmail.com](mailto:tshiajan@gmail.com)  
+**Email:** [janaire@gmail.com](mailto:janaire@gmail.com)  
 **Hosted Policy URL:** [https://tshiajan.github.io/gods-of-olympus-privacy/](https://tshiajan.github.io/gods-of-olympus-privacy/)
